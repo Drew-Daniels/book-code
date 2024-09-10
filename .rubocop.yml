@@ -13,3 +13,6 @@ require:
 
 AllCops:
   NewCops: enable
+
+RSpec/Focus:
+  Enabled: false
