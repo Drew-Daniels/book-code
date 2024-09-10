@@ -1,0 +1,33 @@
+example_id                                            | status  | run_time        |
+----------------------------------------------------- | ------- | --------------- |
+./02-running-specs/01/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/01/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00024 seconds |
+./02-running-specs/03/spec/slow_spec.rb[1:1]          | unknown |                 |
+./02-running-specs/03/spec/slow_spec.rb[1:2]          | unknown |                 |
+./02-running-specs/03/spec/slow_spec.rb[1:3]          | unknown |                 |
+./02-running-specs/03/spec/slow_spec.rb[1:4]          | unknown |                 |
+./02-running-specs/03/spec/slow_spec.rb[1:5]          | unknown |                 |
+./02-running-specs/06/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/06/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00004 seconds |
+./02-running-specs/07/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/07/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00024 seconds |
+./02-running-specs/08/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/08/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00003 seconds |
+./02-running-specs/09/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00006 seconds |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:2]      | pending | 0 seconds       |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:3]      | pending | 0 seconds       |
+./02-running-specs/10/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00003 seconds |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:2]      | pending | 0.00007 seconds |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:3]      | failed  | 0.00038 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:1]        | unknown |                 |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:1]      | passed  | 0.00004 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:2]      | failed  | 0.00024 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:3]      | failed  | 0.00005 seconds |
+./02-running-specs/exercises/spec/tea_spec.rb[1:1]    | unknown |                 |
+./02-running-specs/exercises/spec/tea_spec.rb[1:2]    | unknown |                 |
+./02-running-specs/solutions/01/spec/tea_spec.rb[1:1] | unknown |                 |
+./02-running-specs/solutions/01/spec/tea_spec.rb[1:2] | unknown |                 |
+./02-running-specs/solutions/02/spec/tea_spec.rb[1:1] | unknown |                 |
+./02-running-specs/solutions/02/spec/tea_spec.rb[1:2] | unknown |                 |
