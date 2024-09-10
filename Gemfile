@@ -8,3 +8,6 @@ gem 'rubocop'
 gem 'rubocop-rspec'
 
 gem "coderay", "~> 1.1"
+
+gem "rack-test", "~> 2.1"
+gem "sinatra", "~> 4.0"
