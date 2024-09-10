@@ -6,3 +6,5 @@ source 'https://rubygems.org'
 gem 'rspec'
 gem 'rubocop'
 gem 'rubocop-rspec'
+
+gem "coderay", "~> 1.1"
