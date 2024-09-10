@@ -11,3 +11,5 @@ gem "coderay", "~> 1.1"
 
 gem "rack-test", "~> 2.1"
 gem "sinatra", "~> 4.0"
+
+gem "yard", "~> 0.9.37"
