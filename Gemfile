@@ -13,3 +13,5 @@ gem "rack-test", "~> 2.1"
 gem "sinatra", "~> 4.0"
 
 gem "yard", "~> 0.9.37"
+
+gem "rackup", "~> 2.1"
